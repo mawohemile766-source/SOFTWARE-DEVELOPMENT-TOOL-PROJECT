@@ -1,3 +1,4 @@
+//This function 
 function handleCredentialResponse(response) {
     const idToken = response.credential;
 
